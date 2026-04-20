@@ -1,6 +1,6 @@
-# Simple IoT LCD Game Collection
+# Simple IoT LCD Game Creator for Learning
 
-This project is a lightweight Arduino-style framework for building simple LCD games on ESP32 (and other microcontrollers) using:
+This project is a lightweight framework for building simple LCD games on ESP32 (and other microcontrollers) using:
 
 - I2C LCD (`LiquidCrystal_I2C`)
 - Rotary encoder (rotation for horizontal movement)
